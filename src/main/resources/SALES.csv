@@ -1,0 +1,3 @@
+ID:VARCHAR,NAME1:VARCHAR,NAME2:VARCHAR
+a,first,second
+b,hello,world
