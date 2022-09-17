@@ -8,7 +8,7 @@
     <artifactId>com.calcite.study</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
-        <calcite.version>1.21.0</calcite.version>
+        <calcite.version>1.32.0</calcite.version>
     </properties>
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.apache.calcite/calcite-core -->
